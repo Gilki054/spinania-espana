@@ -18,4 +18,4 @@ User-agent: DotBot
 User-agent: CCBot
 Disallow: /
 
-Sitemap: https://spinania-espana.vercel.app/sitemap.xml
+Sitemap: https://spinania-espana-two.vercel.app/sitemap.xml
